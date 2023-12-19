@@ -2,8 +2,7 @@
 
 ### Business Problem
 
-An airline company faces challenges due to various factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market leading to higher labor costs. These challenges are putting pressure on the company's profitability, and we are actively seeking.
-solutions to address this issue.
+An airline company faces challenges due to various factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market leading to higher labor costs. These challenges are putting pressure on the company's profitability, and the aim is to address this issue.
 
 ### Steps Followed
 
